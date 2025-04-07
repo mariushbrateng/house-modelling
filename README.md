@@ -96,3 +96,10 @@ then use sandbox to do "from contours"
 
 
 <img width="605" alt="Screenshot 2025-04-07 at 20 54 53" src="https://github.com/user-attachments/assets/c53c737f-c264-4211-8fb9-926cfc0f6a07" />
+
+
+result:
+<img width="1620" alt="Screenshot 2025-04-07 at 21 09 05" src="https://github.com/user-attachments/assets/a763506c-8649-41b2-abb6-8a9b56640b5f" />
+
+
+
